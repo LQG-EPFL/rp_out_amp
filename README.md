@@ -34,3 +34,8 @@ ADR130 Voltage Reference:
 Ordering from JLCPCB.com:
 * Use jlcpcb4.cam CAM processor in Eagle to produce GERBER files for JLCPCB
 * Current GERBER files are 'LQG_mod_RP_Out_Amp_2020-10-20.zip'
+
+```markdown
+![schematic1](LQG_mod_RP_Out_Amp_schematic1024_1.png)
+![schematic2](LQG_mod_RP_Out_Amp_schematic1024_2.png)
+```
