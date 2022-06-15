@@ -35,7 +35,5 @@ Ordering from JLCPCB.com:
 * Use jlcpcb4.cam CAM processor in Eagle to produce GERBER files for JLCPCB
 * Current GERBER files are 'LQG_mod_RP_Out_Amp_2020-10-20.zip'
 
-```markdown
-![schematic1](./LQG_mod_RP_Out_Amp_schematic1024_1.png)
-![schematic2](./LQG_mod_RP_Out_Amp_schematic1024_2.png)
-```
+![LQG_mod_RP_Out_Amp_schematic1024_1](https://user-images.githubusercontent.com/64405194/173795277-f657ee93-25cd-4366-abb4-a16b97fddb42.png)
+![LQG_mod_RP_Out_Amp_schematic1024_2](https://user-images.githubusercontent.com/64405194/173795392-05ab25c5-5397-4076-b6fb-138046de9391.png)
