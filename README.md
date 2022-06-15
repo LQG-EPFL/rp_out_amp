@@ -36,6 +36,6 @@ Ordering from JLCPCB.com:
 * Current GERBER files are 'LQG_mod_RP_Out_Amp_2020-10-20.zip'
 
 ```markdown
-![schematic1](LQG_mod_RP_Out_Amp_schematic1024_1.png)
-![schematic2](LQG_mod_RP_Out_Amp_schematic1024_2.png)
+![schematic1](./LQG_mod_RP_Out_Amp_schematic1024_1.png)
+![schematic2](./LQG_mod_RP_Out_Amp_schematic1024_2.png)
 ```
